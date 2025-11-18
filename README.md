@@ -8,13 +8,13 @@ It plays soft sounds, shows nice visuals, and changes colors automatically to ma
 ## 📱 Screenshots
 
 ### Home Screen
-![Home Screen](IMG_1838)
+![Home Screen](IMG_1838.jpg)
 
 ### Feature 1
-![Feature 1](IMG_1828)
+![Feature 1](IMG_1828.jpg)
 
 ### Feature 2
-![Feature 2](IMG_1827)
+![Feature 2](IMG_1827.jpg)
 
 ---
 
